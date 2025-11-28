@@ -45,7 +45,7 @@ export default function Header({ scrolled }: { scrolled: boolean }) {
         </nav>
 
         <button
-          onClick={() => (window.location.href = "tel:7909921367")}
+          onClick={() => (window.location.href = "tel:9461783107")}
           className="hidden md:block px-6 py-2 bg-amber-600 hover:bg-amber-500 text-white font-semibold rounded-full transition-all duration-300 hover:shadow-lg hover:shadow-amber-600/50 relative overflow-hidden group"
         >
           <span className="relative z-10">Order Now</span>

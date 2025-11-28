@@ -381,7 +381,7 @@ export default function Cuisine() {
                 <div className="flex justify-between items-center">
                   <span className="text-2xl font-bold text-amber-400">₹{dish.price}</span>
                   <button
-                    onClick={() => (window.location.href = "tel:7909921367")}
+                    onClick={() => (window.location.href = "tel:9461783107")}
                     className="px-4 py-2 bg-amber-600/20 text-amber-400 border border-amber-600/30 rounded hover:bg-amber-600 hover:text-white transition-all duration-300 text-sm font-semibold"
                   >
                     Order
